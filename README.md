@@ -1,5 +1,4 @@
 
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Clima
 
@@ -48,7 +47,4 @@ switch conditionID {
             return "cloud"
         }
 ```
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
+### To refer to video -> https://www.udemy.com/course/ios-13-app-development-bootcamp/learn/lecture/16253648#overview (Videos 142-162)
