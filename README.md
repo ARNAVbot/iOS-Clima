@@ -15,7 +15,7 @@ By the end of the module, you will have made a beautiful, dark-mode enabled weat
 
 * How to create a dark-mode enabled app.
 * How to use vector images as image assets.
-* Learn to use the UITextField to get user input. 
+* Learn to use the UITextField to get user input, put validations on text field. 
 * Learn about the delegate pattern.
 * Swift protocols and extensions. 
 * Swift guard keyword. 
@@ -25,6 +25,10 @@ By the end of the module, you will have made a beautiful, dark-mode enabled weat
 * Parse JSON with the native Encodable and Decodable protocols. 
 * Learn to use Grand Central Dispatch to fetch the main thread.
 * Learn to use Core Location to get the current location from the phone GPS. 
+* Use this -> DispatchQueue.main.async to call anything on main thread
+* Use codable 
+* Uses protocol and delegate to demonstrate an example of observer pattern
+* How to convert data returned from url response into actual model class using decoder.
 
 ### Condition Codes
 ```
