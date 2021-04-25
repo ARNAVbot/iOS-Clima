@@ -98,6 +98,7 @@ struct WeatherManager {
         }
         
         if let safeData = data {
+            // converting data object into string and printing , just for example
             let dataString = String(data: safeData, encoding: .utf8)
             print(dataString)
         }
